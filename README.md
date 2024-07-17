@@ -1,4 +1,4 @@
-# SAP REACH PBI Data-to-Value
+# REACH SAP to PBI (Data-to-Value)
 
 ## Table of contents
 * [Description](https://github.com/svnagel/sap-reach-pbi?tab=readme-ov-file#description)
