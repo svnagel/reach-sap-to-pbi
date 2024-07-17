@@ -10,9 +10,11 @@
 ## Description
 This project was inspired by a HAL thesis (Id: tel-03716180) in the context of the application of REACH EU regulation for French aeronautical equipment manufacturers. It addresses the notions of: data modelling, data pipeline and data visualisation.
 
-## Objectives
-
 ## Use Case Scenario
+"SAF" company wishes to monitor the replacements of the Sermetel painting lines. A monthly meeting is organised with the environmental health and safety auditors (HSE Audit) to present progress KPIs.
+
+## Objectives
+* 
 
 ## Class Diagram
 
@@ -23,4 +25,4 @@ This project was inspired by a HAL thesis (Id: tel-03716180) in the context of t
 * [SAP S/4HANA Cloud trial](https://www.sap.com/products/erp/s4hana/trial.html)
 * [SAP BTP (Business Technology Platform) Data-to-Value Bootcamp](https://github.com/SAP-samples/btp-data-to-value-workshop)
 * [REACH Regulation](https://environment.ec.europa.eu/topics/chemicals/reach-regulation_en)
-* [Sermetel W Replacement](https://theses.hal.science/tel-03716180v1/document)
+* [HAL thesis (Id: tel-03716180)](https://theses.hal.science/tel-03716180v1/document)
