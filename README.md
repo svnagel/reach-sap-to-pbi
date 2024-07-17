@@ -11,7 +11,7 @@
 This project was inspired by a HAL thesis (Id: tel-03716180) in the context of the application of EU REACH regulation for French aeronautical equipment manufacturers. It addresses the notions of: data modelling, data pipeline and data visualisation.
 
 ## Use Case Scenario
-REACH regulation in Europe has banned the use of hexavalent chromium (Chromium-6) compounds since September 21, 2017. The _Sermetel W_ paint, currently used by our use case company _SAF_ contains this chemical substance. Studies have put the light on the paint « Maderbind CF » as a replacement for _Sermetel W_. _SAF_ company wishes to monitor the replacements of the _Sermetel W_ painting lines. A monthly meeting is organised with the environmental health and safety auditors (HSE Audit) to present progress KPIs.
+REACH regulation in Europe has banned the use of hexavalent chromium (Chromium-6) compounds since September 21, 2017. The « Sermetel W » paint, currently used by our use case company « SAF » contains this chemical substance. Studies have suggested the paint « Maderbind CF » as a replacement for « Sermetel W ». « SAF » company wishes to monitor the replacements of the « Sermetel W » painting lines. A monthly meeting is organised with the environmental health and safety auditors (HSE Audit) to present progress KPIs.
 
 ## Objectives
 * 
