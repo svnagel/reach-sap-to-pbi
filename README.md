@@ -1,3 +1,4 @@
+<div style="text-align: justify"> 
 # SAP REACH PBI Data-to-Value
 
 ## Table of contents
@@ -26,3 +27,4 @@ REACH regulation in Europe has banned the use of hexavalent chromium (Chromium-6
 * [SAP BTP (Business Technology Platform) Data-to-Value Bootcamp](https://github.com/SAP-samples/btp-data-to-value-workshop)
 * [REACH Regulation](https://environment.ec.europa.eu/topics/chemicals/reach-regulation_en)
 * [HAL thesis (Id: tel-03716180)](https://theses.hal.science/tel-03716180v1/document)
+</div>
