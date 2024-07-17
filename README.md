@@ -4,6 +4,8 @@
 
 ## Use Case Scenario
 
+## Class Diagram
+
 ## Prerequisites
 
 ## Sources
