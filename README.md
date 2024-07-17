@@ -1,6 +1,16 @@
 # SAP REACH PBI Data-to-Value
 
+## Table of content
+* [Description](https://github.com/svnagel/sap-reach-pbi?tab=readme-ov-file#description)
+* [Context](https://github.com/svnagel/sap-reach-pbi?tab=readme-ov-file#context)
+* [Use Case Scenario](https://github.com/svnagel/sap-reach-pbi?tab=readme-ov-file#use-case-scenario)
+* [Class Diagram](https://github.com/svnagel/sap-reach-pbi?tab=readme-ov-file#class-diagram)
+* [Prerequisites](https://github.com/svnagel/sap-reach-pbi?tab=readme-ov-file#prerequisites)
+* [Sources](https://github.com/svnagel/sap-reach-pbi?tab=readme-ov-file#sources)
+
 ## Description
+
+## Context
 
 ## Use Case Scenario
 
