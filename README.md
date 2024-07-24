@@ -18,7 +18,7 @@ The following KPI(s) are monitored during HSE meetings:
 * Percentage of REACH compliant components
 
 ## Data Dictionary
-# Paint Table
+### Paint Table
 | **Name**    	| **Type** 	| **Description**                          	| **Example**                      	|
 |-------------	|----------	|------------------------------------------	|----------------------------------	|
 | id          	| number   	| paint identifier                         	| 01, 02                           	|
@@ -26,9 +26,10 @@ The following KPI(s) are monitored during HSE meetings:
 | binder type 	| text     	| chemical components of the binder        	| phosphate-chrome, sol-gel        	|
 | status      	| text     	| status regarding the replacement project 	| in use, to be replaced, replaced 	|
 
-# Component Table
+### Component Table
 
-# Replacement Project Table
+
+### Replacement Project Table
 
 ## Class Diagram
 First, the class diagram will be simplified to build the complete data pipeline (from SAP to PBI). Later, it will be possible to extend the database to add more parameters.
