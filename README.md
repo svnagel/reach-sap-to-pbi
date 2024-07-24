@@ -3,8 +3,8 @@
 ## Table of contents
 * [Description](https://github.com/svnagel/sap-reach-pbi?tab=readme-ov-file#description)
 * [Use Case Scenario](https://github.com/svnagel/sap-reach-pbi?tab=readme-ov-file#use-case-scenario)
-* [Objectives](https://github.com/svnagel/sap-reach-pbi?tab=readme-ov-file#class-diagram)
-* [Data Dictionary](https://github.com/svnagel/sap-reach-pbi?tab=readme-ov-file#class-diagram)
+* [Objectives](https://github.com/svnagel/sap-reach-pbi?tab=readme-ov-file#objectives)
+* [Data Dictionary](https://github.com/svnagel/sap-reach-pbi?tab=readme-ov-file#data-dictionary)
 * [Class Diagram](https://github.com/svnagel/sap-reach-pbi?tab=readme-ov-file#class-diagram)
 * [Prerequisites](https://github.com/svnagel/sap-reach-pbi?tab=readme-ov-file#prerequisites)
 * [Sources](https://github.com/svnagel/sap-reach-pbi?tab=readme-ov-file#sources)
