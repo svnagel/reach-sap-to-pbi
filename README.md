@@ -3,6 +3,8 @@
 ## Table of contents
 * [Description](https://github.com/svnagel/sap-reach-pbi?tab=readme-ov-file#description)
 * [Use Case Scenario](https://github.com/svnagel/sap-reach-pbi?tab=readme-ov-file#use-case-scenario)
+* [Objectives](https://github.com/svnagel/sap-reach-pbi?tab=readme-ov-file#class-diagram)
+* [Data Dictionary](https://github.com/svnagel/sap-reach-pbi?tab=readme-ov-file#class-diagram)
 * [Class Diagram](https://github.com/svnagel/sap-reach-pbi?tab=readme-ov-file#class-diagram)
 * [Prerequisites](https://github.com/svnagel/sap-reach-pbi?tab=readme-ov-file#prerequisites)
 * [Sources](https://github.com/svnagel/sap-reach-pbi?tab=readme-ov-file#sources)
@@ -14,7 +16,7 @@ This project was inspired by a HAL thesis (Id: tel-03716180) in the context of t
 REACH regulation in Europe has banned the use of hexavalent chromium (Chromium-6) compounds since September 21, 2017. The « Sermetel W » paint, currently used by our use case company « SAF » contains this chemical substance. Studies have suggested the paint « Maderbind CF » as a replacement for « Sermetel W ». Our company wishes to monitor the replacements of the « Sermetel W » painting lines. A regular meeting is organised with the environmental health and safety auditors (HSE Audit) to present progress KPIs.
 
 ## Objectives
-The following KPI(s) are monitored during HSE meetings:
+The following KPI(s) will be monitored during HSE meetings:
 * Percentage of REACH compliant components
 
 ## Data Dictionary
