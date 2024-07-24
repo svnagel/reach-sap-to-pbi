@@ -34,7 +34,7 @@ The following KPI(s) will be monitored during HSE meetings:
 ### Replacement Project Table
 
 ## Class Diagram
-<center><img src="pictures/class_diagram.png" alt="class_diagram" width="600"/></center>
+<div align="center"><img src="pictures/class_diagram.png" alt="class_diagram" width="600"/></div>
 First, the class diagram will be simplified to build the complete data pipeline (from SAP to PBI). Later, it will be possible to extend the database to add more parameters.
 
 ## Prerequisites
