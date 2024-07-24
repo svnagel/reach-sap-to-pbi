@@ -35,7 +35,9 @@ The following KPI(s) will be monitored during HSE meetings:
 
 ## Class Diagram
 <div align="center"><img src="pictures/class_diagram.png" alt="class_diagram" width="550"/></div>
-First, the class diagram will be simplified to build the complete data pipeline (from SAP to PBI). Later, it will be possible to extend the database to add more parameters.
+> [!NOTE]
+> Database structure is simplified for the construction of the complete data pipeline (from SAP to PBI).
+> Complexity can always be added later.
 
 ## Prerequisites
 
