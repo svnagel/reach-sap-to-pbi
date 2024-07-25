@@ -20,7 +20,7 @@ The following KPI(s) will be monitored during HSE meetings:
 * Percentage of REACH compliant components
 
 ## Data Dictionary
-**Note:** This dataset is an example and does not reflect the reality of any specific organisation.
+**Note** This dataset is an example and does not reflect the reality of any specific organisation.
 
 ### Paint Table
 | **Name**    	| **Type** 	| **Description**                          	| **Example**                      	|
