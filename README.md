@@ -36,9 +36,27 @@ Note: This dataset is an example and does not reflect the reality of any specifi
 | id       	| number   	| component identifier                         	| 01, 02                       	|
 | name     	| text     	| name of the component                        	| T rod, Straight rod          	|
 | material 	| text     	| material of the component                    	| alloy steel, stainless steel 	|
-| id_paint 	| number   	| associated painting identifier (foreign key) 	| 01, 02                       	|
+| idPaint 	| number   	| associated painting identifier (foreign key) 	| 01, 02                       	|
 
 ### Replacement Project Table
+| **Name**            	| **Type** 	| **Description**                        	| **Example** 	|
+|---------------------	|----------	|----------------------------------------	|-------------	|
+| id                  	| number   	| project replacement identifier         	| 01, 02      	|
+| startDate           	| date     	| replacement project start date         	| 01/07/2024  	|
+| endDate             	| date     	| replacement project end date           	| 31/12/2024  	|
+| idPaintToBeReplaced 	| number   	| identifier of the paint to be replaced 	| 01, 02      	|
+| idReplacementPaint  	| number   	| identifier of the replacement paint    	| 01, 02      	|
+
+### Use case Example
+Replacement of Sermetel W paint with Maderbind on all straight rods.
+
+### Cardinality
+#### Paint to Component
+A paint can be applied to several components 0..*
+A component has or does not have paint applied 0..1
+#### Component to Replacement project
+A component has or does not have a replacement project affected 0..1
+A replacement project is assigned to one and only one component 1
 
 ## Class Diagram
 <div align="center"><img src="pictures/class_diagram.png" alt="class_diagram" width="550"/></div>
