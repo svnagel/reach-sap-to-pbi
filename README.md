@@ -20,6 +20,8 @@ The following KPI(s) will be monitored during HSE meetings:
 * Percentage of REACH compliant components
 
 ## Data Dictionary
+Note: This dataset is an example and does not reflect the reality of any specific organisation.
+
 ### Paint Table
 | **Name**    	| **Type** 	| **Description**                          	| **Example**                      	|
 |-------------	|----------	|------------------------------------------	|----------------------------------	|
@@ -35,10 +37,7 @@ The following KPI(s) will be monitored during HSE meetings:
 
 ## Class Diagram
 <div align="center"><img src="pictures/class_diagram.png" alt="class_diagram" width="550"/></div>
----
-**NOTE**
-Database structure is simplified for the construction of the complete data pipeline (from SAP to PBI). Complexity can always be added later.
----
+Note: Database structure is simplified for the construction of the complete data pipeline (from SAP to PBI). Complexity can always be added later.
 
 ## Prerequisites
 
