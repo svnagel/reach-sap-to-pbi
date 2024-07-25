@@ -59,7 +59,7 @@ Replacement of Sermetel W paint with Maderbind on all straight rods.
 * A replacement project is assigned to one and only one component 1
 
 ## Class Diagram
-<div align="center"><img src="pictures/class_diagram.png" alt="class_diagram" width="500"/></div>
+<div align="center"><img src="pictures/class_diagram.png" alt="class_diagram" width="400"/></div>
 Note: Database structure is simplified for the construction of the complete data pipeline (from SAP to PBI). Complexity can always be added later.
 
 ## Prerequisites
