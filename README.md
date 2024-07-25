@@ -6,7 +6,6 @@
 * [Objectives](https://github.com/svnagel/sap-reach-pbi?tab=readme-ov-file#objectives)
 * [Data Dictionary](https://github.com/svnagel/sap-reach-pbi?tab=readme-ov-file#data-dictionary)
 * [Class Diagram](https://github.com/svnagel/sap-reach-pbi?tab=readme-ov-file#class-diagram)
-* [Prerequisites](https://github.com/svnagel/sap-reach-pbi?tab=readme-ov-file#prerequisites)
 * [Sources](https://github.com/svnagel/sap-reach-pbi?tab=readme-ov-file#sources)
 
 ## Description
@@ -62,8 +61,6 @@ Replacement of Sermetel W paint with Maderbind on all straight rods.
 <div align="center"><img src="pictures/class_diagram.png" alt="class_diagram" width="400"/></div>
 
 **Note**: Database structure is simplified for the construction of the complete data pipeline (from SAP to PBI). Complexity can always be added later.
-
-## Prerequisites
 
 ## Sources
 * [Data Analyst SAP course catalog](https://learning.sap.com/browse/roles/data-analyst?access=free&page=1)
