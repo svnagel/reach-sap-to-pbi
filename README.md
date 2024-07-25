@@ -52,14 +52,14 @@ Replacement of Sermetel W paint with Maderbind on all straight rods.
 
 ### Cardinality
 #### Paint to Component
-A paint can be applied to several components 0..*
-A component has or does not have paint applied 0..1
+* A paint can be applied to several components 0..*
+* A component has or does not have paint applied 0..1
 #### Component to Replacement project
-A component has or does not have a replacement project affected 0..1
-A replacement project is assigned to one and only one component 1
+* A component has or does not have a replacement project affected 0..1
+* A replacement project is assigned to one and only one component 1
 
 ## Class Diagram
-<div align="center"><img src="pictures/class_diagram.png" alt="class_diagram" width="550"/></div>
+<div align="center"><img src="pictures/class_diagram.png" alt="class_diagram" width="500"/></div>
 Note: Database structure is simplified for the construction of the complete data pipeline (from SAP to PBI). Complexity can always be added later.
 
 ## Prerequisites
