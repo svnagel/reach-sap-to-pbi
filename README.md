@@ -31,7 +31,12 @@ Note: This dataset is an example and does not reflect the reality of any specifi
 | status      	| text     	| status regarding the replacement project 	| in use, to be replaced, replaced 	|
 
 ### Component Table
-
+| **Name** 	| **Type** 	| **Description**                              	| **Example**                  	|
+|----------	|----------	|----------------------------------------------	|------------------------------	|
+| id       	| number   	| component identifier                         	| 01, 02                       	|
+| name     	| text     	| name of the component                        	| T rod, Straight rod          	|
+| material 	| text     	| material of the component                    	| alloy steel, stainless steel 	|
+| id_paint 	| number   	| associated painting identifier (foreign key) 	| 01, 02                       	|
 
 ### Replacement Project Table
 
